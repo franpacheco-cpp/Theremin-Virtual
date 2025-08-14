@@ -1,5 +1,6 @@
 # Theremin Digital
 ### Francisco Pacheco - 6º1º ETP - 2025
+### Desarrollo III - Prof. Ivana Rojas
 
 Este programa es un simulador de un theremin en un entorno digital (a través de un CLI) programado
 en python3, sin librerías externas. Cuenta con un módulo de clase y otro principal donde se
